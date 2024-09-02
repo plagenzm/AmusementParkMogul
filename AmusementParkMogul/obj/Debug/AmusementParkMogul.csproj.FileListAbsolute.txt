@@ -1,0 +1,7 @@
+C:\Users\plage\source\repos\AmusementParkMogul\AmusementParkMogul\bin\Debug\AmusementParkMogul.exe.config
+C:\Users\plage\source\repos\AmusementParkMogul\AmusementParkMogul\bin\Debug\AmusementParkMogul.exe
+C:\Users\plage\source\repos\AmusementParkMogul\AmusementParkMogul\bin\Debug\AmusementParkMogul.pdb
+C:\Users\plage\source\repos\AmusementParkMogul\AmusementParkMogul\obj\Debug\AmusementParkMogul.csproj.AssemblyReference.cache
+C:\Users\plage\source\repos\AmusementParkMogul\AmusementParkMogul\obj\Debug\AmusementParkMogul.csproj.CoreCompileInputs.cache
+C:\Users\plage\source\repos\AmusementParkMogul\AmusementParkMogul\obj\Debug\AmusementParkMogul.exe
+C:\Users\plage\source\repos\AmusementParkMogul\AmusementParkMogul\obj\Debug\AmusementParkMogul.pdb
