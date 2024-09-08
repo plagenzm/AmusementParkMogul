@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\plage\\source\\repos\\AmusementParkMogul\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8F5E818-4AD3-4EA2-81CB-C4E11126A47D}|AmusementParkMogul\\AmusementParkMogul.csproj|c:\\users\\plage\\source\\repos\\amusementparkmogul\\amusementparkmogul\\rollercoaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8F5E818-4AD3-4EA2-81CB-C4E11126A47D}|AmusementParkMogul\\AmusementParkMogul.csproj|solutionrelative:amusementparkmogul\\rollercoaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8F5E818-4AD3-4EA2-81CB-C4E11126A47D}|AmusementParkMogul\\AmusementParkMogul.csproj|c:\\users\\plage\\source\\repos\\amusementparkmogul\\amusementparkmogul\\propertyprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F5E818-4AD3-4EA2-81CB-C4E11126A47D}|AmusementParkMogul\\AmusementParkMogul.csproj|solutionrelative:amusementparkmogul\\propertyprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8F5E818-4AD3-4EA2-81CB-C4E11126A47D}|AmusementParkMogul\\AmusementParkMogul.csproj|C:\\Users\\plage\\source\\repos\\AmusementParkMogul\\amusementparkmogul\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8F5E818-4AD3-4EA2-81CB-C4E11126A47D}|AmusementParkMogul\\AmusementParkMogul.csproj|solutionrelative:amusementparkmogul\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F5E818-4AD3-4EA2-81CB-C4E11126A47D}|AmusementParkMogul\\AmusementParkMogul.csproj|c:\\users\\plage\\source\\repos\\amusementparkmogul\\amusementparkmogul\\attraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F5E818-4AD3-4EA2-81CB-C4E11126A47D}|AmusementParkMogul\\AmusementParkMogul.csproj|solutionrelative:amusementparkmogul\\attraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F5E818-4AD3-4EA2-81CB-C4E11126A47D}|AmusementParkMogul\\AmusementParkMogul.csproj|c:\\users\\plage\\source\\repos\\amusementparkmogul\\amusementparkmogul\\icalculateattractioncost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F5E818-4AD3-4EA2-81CB-C4E11126A47D}|AmusementParkMogul\\AmusementParkMogul.csproj|solutionrelative:amusementparkmogul\\icalculateattractioncost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Rollercoaster.cs",
-              "DocumentMoniker": "C:\\Users\\plage\\source\\repos\\AmusementParkMogul\\AmusementParkMogul\\Rollercoaster.cs",
-              "RelativeDocumentMoniker": "AmusementParkMogul\\Rollercoaster.cs",
-              "ToolTip": "C:\\Users\\plage\\source\\repos\\AmusementParkMogul\\AmusementParkMogul\\Rollercoaster.cs",
-              "RelativeToolTip": "AmusementParkMogul\\Rollercoaster.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBAAAAAqAAAA",
+              "Title": "PropertyPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\plage\\source\\repos\\AmusementParkMogul\\AmusementParkMogul\\PropertyPrinter.cs",
+              "RelativeDocumentMoniker": "AmusementParkMogul\\PropertyPrinter.cs",
+              "ToolTip": "C:\\Users\\plage\\source\\repos\\AmusementParkMogul\\AmusementParkMogul\\PropertyPrinter.cs",
+              "RelativeToolTip": "AmusementParkMogul\\PropertyPrinter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:52:39.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICalculateAttractionCost.cs",
+              "DocumentMoniker": "C:\\Users\\plage\\source\\repos\\AmusementParkMogul\\AmusementParkMogul\\ICalculateAttractionCost.cs",
+              "RelativeDocumentMoniker": "AmusementParkMogul\\ICalculateAttractionCost.cs",
+              "ToolTip": "C:\\Users\\plage\\source\\repos\\AmusementParkMogul\\AmusementParkMogul\\ICalculateAttractionCost.cs",
+              "RelativeToolTip": "AmusementParkMogul\\ICalculateAttractionCost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:27:20.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Attraction.cs",
+              "DocumentMoniker": "C:\\Users\\plage\\source\\repos\\AmusementParkMogul\\AmusementParkMogul\\Attraction.cs",
+              "RelativeDocumentMoniker": "AmusementParkMogul\\Attraction.cs",
+              "ToolTip": "C:\\Users\\plage\\source\\repos\\AmusementParkMogul\\AmusementParkMogul\\Attraction.cs",
+              "RelativeToolTip": "AmusementParkMogul\\Attraction.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAASwDgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T14:24:05.85Z",
               "EditorCaption": ""
@@ -41,9 +79,10 @@
               "RelativeDocumentMoniker": "AmusementParkMogul\\Program.cs",
               "ToolTip": "C:\\Users\\plage\\source\\repos\\AmusementParkMogul\\AmusementParkMogul\\Program.cs",
               "RelativeToolTip": "AmusementParkMogul\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwBIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T14:20:18.186Z"
+              "WhenOpened": "2024-09-02T14:20:18.186Z",
+              "EditorCaption": ""
             }
           ]
         }

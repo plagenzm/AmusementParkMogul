@@ -12,15 +12,46 @@ namespace AmusementParkMogul
         static void Main(string[] args)
         {
 
-            //creating a rollercoaster object
-            Rollercoaster rollercoaster = new Rollercoaster();
-            rollercoaster.Name = "Viper";
-            rollercoaster.Color = "black";
-            rollercoaster.Material = "wood";
-            rollercoaster.Length = 200;
-            rollercoaster.CalculateRollercoasterCost();
-            rollercoaster.getRollercoasterInfo();
+            Console.WriteLine("Welcome to your theme park!");
 
+            Console.WriteLine();
+            Console.WriteLine("---");
+            Console.WriteLine();
+
+            //creating a rollercoaster object
+            Rollercoaster viper = new Rollercoaster();
+            viper.Name = "Viper";
+            viper.Color = "black";
+            viper.Material = "wood";
+            viper.Length = 200;
+            viper.calculateCost();
+            viper.getRollercoasterInfo();
+            PropertyPrinter.PrintProperties(viper);
+
+
+            Console.WriteLine();
+            Console.WriteLine("---");
+            Console.WriteLine();
+
+            //creating a gentle ride object
+            GentleRide hauntedMansion = new GentleRide();
+            hauntedMansion.Name = "The Haunted Mansion";
+            hauntedMansion.squareFoot = 2500;
+            hauntedMansion.calculateCost();
+            hauntedMansion.getGentleRideInfo();
+            PropertyPrinter.PrintProperties(hauntedMansion);
+
+            Console.WriteLine();
+            Console.WriteLine("---");
+            Console.WriteLine();
+
+            //creating a shop object
+            Shop northBalloonShop = new Shop();
+            northBalloonShop.Name = "Balloon Shop - North Entrance";
+            northBalloonShop.squareFoot = 800;
+            northBalloonShop.calculateCost();
+            northBalloonShop.getShopInfo();
+            PropertyPrinter.PrintProperties(northBalloonShop);
 
 
 
